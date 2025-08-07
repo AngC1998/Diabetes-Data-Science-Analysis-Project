@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "d9cfecac",
+   "id": "af29b876",
    "metadata": {
     "papermill": {
-     "duration": 0.003518,
-     "end_time": "2025-08-07T18:47:38.189916",
+     "duration": 0.004148,
+     "end_time": "2025-08-07T19:31:10.995999",
      "exception": false,
-     "start_time": "2025-08-07T18:47:38.186398",
+     "start_time": "2025-08-07T19:31:10.991851",
      "status": "completed"
     },
     "tags": []
@@ -27,21 +27,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "c8df4630",
+   "id": "012fcefe",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2025-08-07T18:47:38.197803Z",
-     "iopub.status.busy": "2025-08-07T18:47:38.197421Z",
-     "iopub.status.idle": "2025-08-07T18:47:40.327458Z",
-     "shell.execute_reply": "2025-08-07T18:47:40.325960Z"
+     "iopub.execute_input": "2025-08-07T19:31:11.005261Z",
+     "iopub.status.busy": "2025-08-07T19:31:11.004812Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.085866Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.084546Z"
     },
     "papermill": {
-     "duration": 2.136098,
-     "end_time": "2025-08-07T18:47:40.329300",
+     "duration": 2.087623,
+     "end_time": "2025-08-07T19:31:13.087694",
      "exception": false,
-     "start_time": "2025-08-07T18:47:38.193202",
+     "start_time": "2025-08-07T19:31:11.000071",
      "status": "completed"
     },
     "tags": []
@@ -78,19 +78,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "b00f862a",
+   "id": "04e1af4e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-07T18:47:40.336205Z",
-     "iopub.status.busy": "2025-08-07T18:47:40.335712Z",
-     "iopub.status.idle": "2025-08-07T18:47:40.392376Z",
-     "shell.execute_reply": "2025-08-07T18:47:40.391184Z"
+     "iopub.execute_input": "2025-08-07T19:31:13.095970Z",
+     "iopub.status.busy": "2025-08-07T19:31:13.095552Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.163447Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.162347Z"
     },
     "papermill": {
-     "duration": 0.062172,
-     "end_time": "2025-08-07T18:47:40.394288",
+     "duration": 0.0744,
+     "end_time": "2025-08-07T19:31:13.165667",
      "exception": false,
-     "start_time": "2025-08-07T18:47:40.332116",
+     "start_time": "2025-08-07T19:31:13.091267",
      "status": "completed"
     },
     "tags": []
@@ -332,19 +332,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "c2ad0a07",
+   "id": "bef563cf",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-07T18:47:40.401682Z",
-     "iopub.status.busy": "2025-08-07T18:47:40.401375Z",
-     "iopub.status.idle": "2025-08-07T18:47:40.415881Z",
-     "shell.execute_reply": "2025-08-07T18:47:40.414828Z"
+     "iopub.execute_input": "2025-08-07T19:31:13.174479Z",
+     "iopub.status.busy": "2025-08-07T19:31:13.174102Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.189379Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.188433Z"
     },
     "papermill": {
-     "duration": 0.020235,
-     "end_time": "2025-08-07T18:47:40.417621",
+     "duration": 0.021324,
+     "end_time": "2025-08-07T19:31:13.190900",
      "exception": false,
-     "start_time": "2025-08-07T18:47:40.397386",
+     "start_time": "2025-08-07T19:31:13.169576",
      "status": "completed"
     },
     "tags": []
@@ -372,19 +372,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "f580269a",
+   "id": "a32ed79e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-07T18:47:40.425965Z",
-     "iopub.status.busy": "2025-08-07T18:47:40.425634Z",
-     "iopub.status.idle": "2025-08-07T18:47:40.435368Z",
-     "shell.execute_reply": "2025-08-07T18:47:40.434400Z"
+     "iopub.execute_input": "2025-08-07T19:31:13.200265Z",
+     "iopub.status.busy": "2025-08-07T19:31:13.199267Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.208353Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.207560Z"
     },
     "papermill": {
-     "duration": 0.015991,
-     "end_time": "2025-08-07T18:47:40.437185",
+     "duration": 0.015176,
+     "end_time": "2025-08-07T19:31:13.209865",
      "exception": false,
-     "start_time": "2025-08-07T18:47:40.421194",
+     "start_time": "2025-08-07T19:31:13.194689",
      "status": "completed"
     },
     "tags": []
@@ -419,13 +419,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "31abce71",
+   "id": "97fb4297",
    "metadata": {
     "papermill": {
-     "duration": 0.003075,
-     "end_time": "2025-08-07T18:47:40.443897",
+     "duration": 0.00318,
+     "end_time": "2025-08-07T19:31:13.216771",
      "exception": false,
-     "start_time": "2025-08-07T18:47:40.440822",
+     "start_time": "2025-08-07T19:31:13.213591",
      "status": "completed"
     },
     "tags": []
@@ -437,19 +437,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "e6dcf369",
+   "id": "8eaac28a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-07T18:47:40.452096Z",
-     "iopub.status.busy": "2025-08-07T18:47:40.451759Z",
-     "iopub.status.idle": "2025-08-07T18:47:40.472115Z",
-     "shell.execute_reply": "2025-08-07T18:47:40.471124Z"
+     "iopub.execute_input": "2025-08-07T19:31:13.224855Z",
+     "iopub.status.busy": "2025-08-07T19:31:13.224477Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.243873Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.242872Z"
     },
     "papermill": {
-     "duration": 0.026481,
-     "end_time": "2025-08-07T18:47:40.473911",
+     "duration": 0.025362,
+     "end_time": "2025-08-07T19:31:13.245541",
      "exception": false,
-     "start_time": "2025-08-07T18:47:40.447430",
+     "start_time": "2025-08-07T19:31:13.220179",
      "status": "completed"
     },
     "tags": []
@@ -690,13 +690,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0977cca0",
+   "id": "027b36cf",
    "metadata": {
     "papermill": {
-     "duration": 0.003155,
-     "end_time": "2025-08-07T18:47:40.480753",
+     "duration": 0.003541,
+     "end_time": "2025-08-07T19:31:13.253361",
      "exception": false,
-     "start_time": "2025-08-07T18:47:40.477598",
+     "start_time": "2025-08-07T19:31:13.249820",
      "status": "completed"
     },
     "tags": []
@@ -708,19 +708,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "f6387aef",
+   "id": "1b02da8d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-07T18:47:40.488856Z",
-     "iopub.status.busy": "2025-08-07T18:47:40.488486Z",
-     "iopub.status.idle": "2025-08-07T18:47:40.508386Z",
-     "shell.execute_reply": "2025-08-07T18:47:40.507366Z"
+     "iopub.execute_input": "2025-08-07T19:31:13.262018Z",
+     "iopub.status.busy": "2025-08-07T19:31:13.261707Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.280622Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.279735Z"
     },
     "papermill": {
-     "duration": 0.025865,
-     "end_time": "2025-08-07T18:47:40.509942",
+     "duration": 0.025385,
+     "end_time": "2025-08-07T19:31:13.282467",
      "exception": false,
-     "start_time": "2025-08-07T18:47:40.484077",
+     "start_time": "2025-08-07T19:31:13.257082",
      "status": "completed"
     },
     "tags": []
@@ -960,14 +960,307 @@
    ]
   },
   {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "1f048d1a",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-08-07T19:31:13.292252Z",
+     "iopub.status.busy": "2025-08-07T19:31:13.291808Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.314026Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.312912Z"
+    },
+    "papermill": {
+     "duration": 0.028532,
+     "end_time": "2025-08-07T19:31:13.315398",
+     "exception": false,
+     "start_time": "2025-08-07T19:31:13.286866",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Gender</th>\n",
+       "      <th>AGE</th>\n",
+       "      <th>Urea</th>\n",
+       "      <th>Cr</th>\n",
+       "      <th>HbA1c</th>\n",
+       "      <th>Chol</th>\n",
+       "      <th>TG</th>\n",
+       "      <th>HDL</th>\n",
+       "      <th>LDL</th>\n",
+       "      <th>VLDL</th>\n",
+       "      <th>BMI</th>\n",
+       "      <th>Class</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>0</td>\n",
+       "      <td>50</td>\n",
+       "      <td>4.7</td>\n",
+       "      <td>46</td>\n",
+       "      <td>4.9</td>\n",
+       "      <td>4.2</td>\n",
+       "      <td>0.9</td>\n",
+       "      <td>2.4</td>\n",
+       "      <td>1.4</td>\n",
+       "      <td>0.5</td>\n",
+       "      <td>24.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>1</td>\n",
+       "      <td>26</td>\n",
+       "      <td>4.5</td>\n",
+       "      <td>62</td>\n",
+       "      <td>4.9</td>\n",
+       "      <td>3.7</td>\n",
+       "      <td>1.4</td>\n",
+       "      <td>1.1</td>\n",
+       "      <td>2.1</td>\n",
+       "      <td>0.6</td>\n",
+       "      <td>23.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>1</td>\n",
+       "      <td>33</td>\n",
+       "      <td>7.1</td>\n",
+       "      <td>46</td>\n",
+       "      <td>4.9</td>\n",
+       "      <td>4.9</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>0.8</td>\n",
+       "      <td>2.0</td>\n",
+       "      <td>0.4</td>\n",
+       "      <td>21.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>0</td>\n",
+       "      <td>45</td>\n",
+       "      <td>2.3</td>\n",
+       "      <td>24</td>\n",
+       "      <td>4.0</td>\n",
+       "      <td>2.9</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1.5</td>\n",
+       "      <td>0.4</td>\n",
+       "      <td>21.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>0</td>\n",
+       "      <td>50</td>\n",
+       "      <td>2.0</td>\n",
+       "      <td>50</td>\n",
+       "      <td>4.0</td>\n",
+       "      <td>3.6</td>\n",
+       "      <td>1.3</td>\n",
+       "      <td>0.9</td>\n",
+       "      <td>2.1</td>\n",
+       "      <td>0.6</td>\n",
+       "      <td>24.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>...</th>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>259</th>\n",
+       "      <td>0</td>\n",
+       "      <td>61</td>\n",
+       "      <td>24.0</td>\n",
+       "      <td>401</td>\n",
+       "      <td>7.0</td>\n",
+       "      <td>4.3</td>\n",
+       "      <td>2.9</td>\n",
+       "      <td>0.4</td>\n",
+       "      <td>2.7</td>\n",
+       "      <td>1.3</td>\n",
+       "      <td>30.0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>260</th>\n",
+       "      <td>0</td>\n",
+       "      <td>61</td>\n",
+       "      <td>24.0</td>\n",
+       "      <td>401</td>\n",
+       "      <td>7.0</td>\n",
+       "      <td>4.3</td>\n",
+       "      <td>2.9</td>\n",
+       "      <td>0.4</td>\n",
+       "      <td>2.7</td>\n",
+       "      <td>1.3</td>\n",
+       "      <td>36.6</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>261</th>\n",
+       "      <td>1</td>\n",
+       "      <td>60</td>\n",
+       "      <td>20.8</td>\n",
+       "      <td>800</td>\n",
+       "      <td>9.0</td>\n",
+       "      <td>2.3</td>\n",
+       "      <td>1.1</td>\n",
+       "      <td>0.9</td>\n",
+       "      <td>0.9</td>\n",
+       "      <td>0.5</td>\n",
+       "      <td>33.0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>262</th>\n",
+       "      <td>1</td>\n",
+       "      <td>56</td>\n",
+       "      <td>20.8</td>\n",
+       "      <td>800</td>\n",
+       "      <td>9.0</td>\n",
+       "      <td>4.6</td>\n",
+       "      <td>2.0</td>\n",
+       "      <td>1.2</td>\n",
+       "      <td>2.5</td>\n",
+       "      <td>0.9</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>263</th>\n",
+       "      <td>1</td>\n",
+       "      <td>58</td>\n",
+       "      <td>20.8</td>\n",
+       "      <td>800</td>\n",
+       "      <td>9.1</td>\n",
+       "      <td>6.6</td>\n",
+       "      <td>2.9</td>\n",
+       "      <td>1.1</td>\n",
+       "      <td>4.3</td>\n",
+       "      <td>1.3</td>\n",
+       "      <td>33.0</td>\n",
+       "      <td>1</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "<p>264 rows × 12 columns</p>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     Gender  AGE  Urea   Cr  HbA1c  Chol   TG  HDL  LDL  VLDL   BMI  Class\n",
+       "0         0   50   4.7   46    4.9   4.2  0.9  2.4  1.4   0.5  24.0      0\n",
+       "1         1   26   4.5   62    4.9   3.7  1.4  1.1  2.1   0.6  23.0      0\n",
+       "2         1   33   7.1   46    4.9   4.9  1.0  0.8  2.0   0.4  21.0      0\n",
+       "3         0   45   2.3   24    4.0   2.9  1.0  1.0  1.5   0.4  21.0      0\n",
+       "4         0   50   2.0   50    4.0   3.6  1.3  0.9  2.1   0.6  24.0      0\n",
+       "..      ...  ...   ...  ...    ...   ...  ...  ...  ...   ...   ...    ...\n",
+       "259       0   61  24.0  401    7.0   4.3  2.9  0.4  2.7   1.3  30.0      1\n",
+       "260       0   61  24.0  401    7.0   4.3  2.9  0.4  2.7   1.3  36.6      1\n",
+       "261       1   60  20.8  800    9.0   2.3  1.1  0.9  0.9   0.5  33.0      1\n",
+       "262       1   56  20.8  800    9.0   4.6  2.0  1.2  2.5   0.9  35.0      1\n",
+       "263       1   58  20.8  800    9.1   6.6  2.9  1.1  4.3   1.3  33.0      1\n",
+       "\n",
+       "[264 rows x 12 columns]"
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df_two.loc[df_two['Class'] > 0, 'Class'] = 1\n",
+    "df_two"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "8ae17783",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-08-07T19:31:13.325055Z",
+     "iopub.status.busy": "2025-08-07T19:31:13.324745Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.332958Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.331565Z"
+    },
+    "papermill": {
+     "duration": 0.01476,
+     "end_time": "2025-08-07T19:31:13.334587",
+     "exception": false,
+     "start_time": "2025-08-07T19:31:13.319827",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Class\n",
+       "1    168\n",
+       "0     96\n",
+       "Name: count, dtype: int64"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df_two['Class'].value_counts()"
+   ]
+  },
+  {
    "cell_type": "markdown",
-   "id": "f95c03b0",
+   "id": "c19abfbd",
    "metadata": {
     "papermill": {
-     "duration": 0.00318,
-     "end_time": "2025-08-07T18:47:40.516883",
+     "duration": 0.004528,
+     "end_time": "2025-08-07T19:31:13.344630",
      "exception": false,
-     "start_time": "2025-08-07T18:47:40.513703",
+     "start_time": "2025-08-07T19:31:13.340102",
      "status": "completed"
     },
     "tags": []
@@ -978,20 +1271,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
-   "id": "c0ffd43d",
+   "execution_count": 9,
+   "id": "73d9ce9c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-07T18:47:40.525491Z",
-     "iopub.status.busy": "2025-08-07T18:47:40.525172Z",
-     "iopub.status.idle": "2025-08-07T18:47:40.545456Z",
-     "shell.execute_reply": "2025-08-07T18:47:40.544371Z"
+     "iopub.execute_input": "2025-08-07T19:31:13.356392Z",
+     "iopub.status.busy": "2025-08-07T19:31:13.355067Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.374133Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.373241Z"
     },
     "papermill": {
-     "duration": 0.027164,
-     "end_time": "2025-08-07T18:47:40.547479",
+     "duration": 0.026036,
+     "end_time": "2025-08-07T19:31:13.375658",
      "exception": false,
-     "start_time": "2025-08-07T18:47:40.520315",
+     "start_time": "2025-08-07T19:31:13.349622",
      "status": "completed"
     },
     "tags": []
@@ -1220,7 +1513,7 @@
        "[264 rows x 12 columns]"
       ]
      },
-     "execution_count": 7,
+     "execution_count": 9,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1228,6 +1521,299 @@
    "source": [
     "df_three = df.copy()\n",
     "df_three"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "f4db01e3",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-08-07T19:31:13.386799Z",
+     "iopub.status.busy": "2025-08-07T19:31:13.386489Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.407077Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.406046Z"
+    },
+    "papermill": {
+     "duration": 0.028215,
+     "end_time": "2025-08-07T19:31:13.408758",
+     "exception": false,
+     "start_time": "2025-08-07T19:31:13.380543",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Gender</th>\n",
+       "      <th>AGE</th>\n",
+       "      <th>Urea</th>\n",
+       "      <th>Cr</th>\n",
+       "      <th>HbA1c</th>\n",
+       "      <th>Chol</th>\n",
+       "      <th>TG</th>\n",
+       "      <th>HDL</th>\n",
+       "      <th>LDL</th>\n",
+       "      <th>VLDL</th>\n",
+       "      <th>BMI</th>\n",
+       "      <th>Class</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>0</td>\n",
+       "      <td>50</td>\n",
+       "      <td>4.7</td>\n",
+       "      <td>46</td>\n",
+       "      <td>4.9</td>\n",
+       "      <td>4.2</td>\n",
+       "      <td>0.9</td>\n",
+       "      <td>2.4</td>\n",
+       "      <td>1.4</td>\n",
+       "      <td>0.5</td>\n",
+       "      <td>24.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>1</td>\n",
+       "      <td>26</td>\n",
+       "      <td>4.5</td>\n",
+       "      <td>62</td>\n",
+       "      <td>4.9</td>\n",
+       "      <td>3.7</td>\n",
+       "      <td>1.4</td>\n",
+       "      <td>1.1</td>\n",
+       "      <td>2.1</td>\n",
+       "      <td>0.6</td>\n",
+       "      <td>23.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>1</td>\n",
+       "      <td>33</td>\n",
+       "      <td>7.1</td>\n",
+       "      <td>46</td>\n",
+       "      <td>4.9</td>\n",
+       "      <td>4.9</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>0.8</td>\n",
+       "      <td>2.0</td>\n",
+       "      <td>0.4</td>\n",
+       "      <td>21.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>0</td>\n",
+       "      <td>45</td>\n",
+       "      <td>2.3</td>\n",
+       "      <td>24</td>\n",
+       "      <td>4.0</td>\n",
+       "      <td>2.9</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1.5</td>\n",
+       "      <td>0.4</td>\n",
+       "      <td>21.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>0</td>\n",
+       "      <td>50</td>\n",
+       "      <td>2.0</td>\n",
+       "      <td>50</td>\n",
+       "      <td>4.0</td>\n",
+       "      <td>3.6</td>\n",
+       "      <td>1.3</td>\n",
+       "      <td>0.9</td>\n",
+       "      <td>2.1</td>\n",
+       "      <td>0.6</td>\n",
+       "      <td>24.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>...</th>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>259</th>\n",
+       "      <td>0</td>\n",
+       "      <td>61</td>\n",
+       "      <td>24.0</td>\n",
+       "      <td>401</td>\n",
+       "      <td>7.0</td>\n",
+       "      <td>4.3</td>\n",
+       "      <td>2.9</td>\n",
+       "      <td>0.4</td>\n",
+       "      <td>2.7</td>\n",
+       "      <td>1.3</td>\n",
+       "      <td>30.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>260</th>\n",
+       "      <td>0</td>\n",
+       "      <td>61</td>\n",
+       "      <td>24.0</td>\n",
+       "      <td>401</td>\n",
+       "      <td>7.0</td>\n",
+       "      <td>4.3</td>\n",
+       "      <td>2.9</td>\n",
+       "      <td>0.4</td>\n",
+       "      <td>2.7</td>\n",
+       "      <td>1.3</td>\n",
+       "      <td>36.6</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>261</th>\n",
+       "      <td>1</td>\n",
+       "      <td>60</td>\n",
+       "      <td>20.8</td>\n",
+       "      <td>800</td>\n",
+       "      <td>9.0</td>\n",
+       "      <td>2.3</td>\n",
+       "      <td>1.1</td>\n",
+       "      <td>0.9</td>\n",
+       "      <td>0.9</td>\n",
+       "      <td>0.5</td>\n",
+       "      <td>33.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>262</th>\n",
+       "      <td>1</td>\n",
+       "      <td>56</td>\n",
+       "      <td>20.8</td>\n",
+       "      <td>800</td>\n",
+       "      <td>9.0</td>\n",
+       "      <td>4.6</td>\n",
+       "      <td>2.0</td>\n",
+       "      <td>1.2</td>\n",
+       "      <td>2.5</td>\n",
+       "      <td>0.9</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>263</th>\n",
+       "      <td>1</td>\n",
+       "      <td>58</td>\n",
+       "      <td>20.8</td>\n",
+       "      <td>800</td>\n",
+       "      <td>9.1</td>\n",
+       "      <td>6.6</td>\n",
+       "      <td>2.9</td>\n",
+       "      <td>1.1</td>\n",
+       "      <td>4.3</td>\n",
+       "      <td>1.3</td>\n",
+       "      <td>33.0</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "<p>264 rows × 12 columns</p>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     Gender  AGE  Urea   Cr  HbA1c  Chol   TG  HDL  LDL  VLDL   BMI  Class\n",
+       "0         0   50   4.7   46    4.9   4.2  0.9  2.4  1.4   0.5  24.0      0\n",
+       "1         1   26   4.5   62    4.9   3.7  1.4  1.1  2.1   0.6  23.0      0\n",
+       "2         1   33   7.1   46    4.9   4.9  1.0  0.8  2.0   0.4  21.0      0\n",
+       "3         0   45   2.3   24    4.0   2.9  1.0  1.0  1.5   0.4  21.0      0\n",
+       "4         0   50   2.0   50    4.0   3.6  1.3  0.9  2.1   0.6  24.0      0\n",
+       "..      ...  ...   ...  ...    ...   ...  ...  ...  ...   ...   ...    ...\n",
+       "259       0   61  24.0  401    7.0   4.3  2.9  0.4  2.7   1.3  30.0      0\n",
+       "260       0   61  24.0  401    7.0   4.3  2.9  0.4  2.7   1.3  36.6      0\n",
+       "261       1   60  20.8  800    9.0   2.3  1.1  0.9  0.9   0.5  33.0      0\n",
+       "262       1   56  20.8  800    9.0   4.6  2.0  1.2  2.5   0.9  35.0      0\n",
+       "263       1   58  20.8  800    9.1   6.6  2.9  1.1  4.3   1.3  33.0      0\n",
+       "\n",
+       "[264 rows x 12 columns]"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df_three.loc[df_three['Class'] == 2, 'Class'] = 0\n",
+    "df_three"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "a32b749b",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-08-07T19:31:13.419949Z",
+     "iopub.status.busy": "2025-08-07T19:31:13.419622Z",
+     "iopub.status.idle": "2025-08-07T19:31:13.427202Z",
+     "shell.execute_reply": "2025-08-07T19:31:13.426230Z"
+    },
+    "papermill": {
+     "duration": 0.014995,
+     "end_time": "2025-08-07T19:31:13.428736",
+     "exception": false,
+     "start_time": "2025-08-07T19:31:13.413741",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Class\n",
+       "0    224\n",
+       "1     40\n",
+       "Name: count, dtype: int64"
+      ]
+     },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df_three['Class'].value_counts()"
    ]
   }
  ],
@@ -1266,14 +1852,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 8.58332,
-   "end_time": "2025-08-07T18:47:41.275268",
+   "duration": 8.252266,
+   "end_time": "2025-08-07T19:31:13.953508",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-08-07T18:47:32.691948",
+   "start_time": "2025-08-07T19:31:05.701242",
    "version": "2.6.0"
   }
  },
