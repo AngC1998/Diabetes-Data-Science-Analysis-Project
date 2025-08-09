@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "916872b2",
+   "id": "2e7eaaaa",
    "metadata": {
     "papermill": {
-     "duration": 0.009087,
-     "end_time": "2025-08-08T03:38:34.769867",
+     "duration": 0.009676,
+     "end_time": "2025-08-09T05:28:02.723202",
      "exception": false,
-     "start_time": "2025-08-08T03:38:34.760780",
+     "start_time": "2025-08-09T05:28:02.713526",
      "status": "completed"
     },
     "tags": []
@@ -39,21 +39,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "a3c89353",
+   "id": "c06ae634",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:34.787381Z",
-     "iopub.status.busy": "2025-08-08T03:38:34.787044Z",
-     "iopub.status.idle": "2025-08-08T03:38:38.855602Z",
-     "shell.execute_reply": "2025-08-08T03:38:38.854424Z"
+     "iopub.execute_input": "2025-08-09T05:28:02.742313Z",
+     "iopub.status.busy": "2025-08-09T05:28:02.741363Z",
+     "iopub.status.idle": "2025-08-09T05:28:06.344869Z",
+     "shell.execute_reply": "2025-08-09T05:28:06.343806Z"
     },
     "papermill": {
-     "duration": 4.079191,
-     "end_time": "2025-08-08T03:38:38.857207",
+     "duration": 3.61466,
+     "end_time": "2025-08-09T05:28:06.346562",
      "exception": false,
-     "start_time": "2025-08-08T03:38:34.778016",
+     "start_time": "2025-08-09T05:28:02.731902",
      "status": "completed"
     },
     "tags": []
@@ -92,19 +92,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "77429f99",
+   "id": "2fc486f8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:38.875736Z",
-     "iopub.status.busy": "2025-08-08T03:38:38.875208Z",
-     "iopub.status.idle": "2025-08-08T03:38:38.927992Z",
-     "shell.execute_reply": "2025-08-08T03:38:38.927144Z"
+     "iopub.execute_input": "2025-08-09T05:28:06.366355Z",
+     "iopub.status.busy": "2025-08-09T05:28:06.365937Z",
+     "iopub.status.idle": "2025-08-09T05:28:06.417653Z",
+     "shell.execute_reply": "2025-08-09T05:28:06.416744Z"
     },
     "papermill": {
-     "duration": 0.064103,
-     "end_time": "2025-08-08T03:38:38.929485",
+     "duration": 0.063515,
+     "end_time": "2025-08-09T05:28:06.419117",
      "exception": false,
-     "start_time": "2025-08-08T03:38:38.865382",
+     "start_time": "2025-08-09T05:28:06.355602",
      "status": "completed"
     },
     "tags": []
@@ -346,19 +346,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "bdca6173",
+   "id": "58112068",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:38.947224Z",
-     "iopub.status.busy": "2025-08-08T03:38:38.946917Z",
-     "iopub.status.idle": "2025-08-08T03:38:38.955412Z",
-     "shell.execute_reply": "2025-08-08T03:38:38.954274Z"
+     "iopub.execute_input": "2025-08-09T05:28:06.438115Z",
+     "iopub.status.busy": "2025-08-09T05:28:06.437802Z",
+     "iopub.status.idle": "2025-08-09T05:28:06.444663Z",
+     "shell.execute_reply": "2025-08-09T05:28:06.443926Z"
     },
     "papermill": {
-     "duration": 0.01915,
-     "end_time": "2025-08-08T03:38:38.957017",
+     "duration": 0.018027,
+     "end_time": "2025-08-09T05:28:06.446090",
      "exception": false,
-     "start_time": "2025-08-08T03:38:38.937867",
+     "start_time": "2025-08-09T05:28:06.428063",
      "status": "completed"
     },
     "tags": []
@@ -384,19 +384,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "9fc6114b",
+   "id": "84523517",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:38.975198Z",
-     "iopub.status.busy": "2025-08-08T03:38:38.974918Z",
-     "iopub.status.idle": "2025-08-08T03:38:38.987627Z",
-     "shell.execute_reply": "2025-08-08T03:38:38.986707Z"
+     "iopub.execute_input": "2025-08-09T05:28:06.466233Z",
+     "iopub.status.busy": "2025-08-09T05:28:06.465914Z",
+     "iopub.status.idle": "2025-08-09T05:28:06.476865Z",
+     "shell.execute_reply": "2025-08-09T05:28:06.476151Z"
     },
     "papermill": {
-     "duration": 0.023411,
-     "end_time": "2025-08-08T03:38:38.989054",
+     "duration": 0.022711,
+     "end_time": "2025-08-09T05:28:06.478200",
      "exception": false,
-     "start_time": "2025-08-08T03:38:38.965643",
+     "start_time": "2025-08-09T05:28:06.455489",
      "status": "completed"
     },
     "tags": []
@@ -424,19 +424,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "b51f8987",
+   "id": "fd25f3e0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:39.008022Z",
-     "iopub.status.busy": "2025-08-08T03:38:39.007698Z",
-     "iopub.status.idle": "2025-08-08T03:38:39.016396Z",
-     "shell.execute_reply": "2025-08-08T03:38:39.015519Z"
+     "iopub.execute_input": "2025-08-09T05:28:06.497049Z",
+     "iopub.status.busy": "2025-08-09T05:28:06.496773Z",
+     "iopub.status.idle": "2025-08-09T05:28:06.504390Z",
+     "shell.execute_reply": "2025-08-09T05:28:06.503668Z"
     },
     "papermill": {
-     "duration": 0.020313,
-     "end_time": "2025-08-08T03:38:39.017899",
+     "duration": 0.018419,
+     "end_time": "2025-08-09T05:28:06.505609",
      "exception": false,
-     "start_time": "2025-08-08T03:38:38.997586",
+     "start_time": "2025-08-09T05:28:06.487190",
      "status": "completed"
     },
     "tags": []
@@ -472,19 +472,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "c0f18fcb",
+   "id": "7454b5bb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:39.036619Z",
-     "iopub.status.busy": "2025-08-08T03:38:39.036211Z",
-     "iopub.status.idle": "2025-08-08T03:38:39.309689Z",
-     "shell.execute_reply": "2025-08-08T03:38:39.308815Z"
+     "iopub.execute_input": "2025-08-09T05:28:06.524831Z",
+     "iopub.status.busy": "2025-08-09T05:28:06.524487Z",
+     "iopub.status.idle": "2025-08-09T05:28:06.834992Z",
+     "shell.execute_reply": "2025-08-09T05:28:06.834053Z"
     },
     "papermill": {
-     "duration": 0.284522,
-     "end_time": "2025-08-08T03:38:39.311281",
+     "duration": 0.321904,
+     "end_time": "2025-08-09T05:28:06.836488",
      "exception": false,
-     "start_time": "2025-08-08T03:38:39.026759",
+     "start_time": "2025-08-09T05:28:06.514584",
      "status": "completed"
     },
     "tags": []
@@ -521,19 +521,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "6dd54f1d",
+   "id": "fb68ace3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:39.331012Z",
-     "iopub.status.busy": "2025-08-08T03:38:39.330086Z",
-     "iopub.status.idle": "2025-08-08T03:38:39.559388Z",
-     "shell.execute_reply": "2025-08-08T03:38:39.558361Z"
+     "iopub.execute_input": "2025-08-09T05:28:06.856867Z",
+     "iopub.status.busy": "2025-08-09T05:28:06.856319Z",
+     "iopub.status.idle": "2025-08-09T05:28:06.982124Z",
+     "shell.execute_reply": "2025-08-09T05:28:06.981313Z"
     },
     "papermill": {
-     "duration": 0.240557,
-     "end_time": "2025-08-08T03:38:39.560987",
+     "duration": 0.13738,
+     "end_time": "2025-08-09T05:28:06.983556",
      "exception": false,
-     "start_time": "2025-08-08T03:38:39.320430",
+     "start_time": "2025-08-09T05:28:06.846176",
      "status": "completed"
     },
     "tags": []
@@ -571,19 +571,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "a6642185",
+   "id": "7b4fcd6a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:39.580713Z",
-     "iopub.status.busy": "2025-08-08T03:38:39.580370Z",
-     "iopub.status.idle": "2025-08-08T03:38:39.709476Z",
-     "shell.execute_reply": "2025-08-08T03:38:39.708622Z"
+     "iopub.execute_input": "2025-08-09T05:28:07.006571Z",
+     "iopub.status.busy": "2025-08-09T05:28:07.005728Z",
+     "iopub.status.idle": "2025-08-09T05:28:07.131838Z",
+     "shell.execute_reply": "2025-08-09T05:28:07.130928Z"
     },
     "papermill": {
-     "duration": 0.140644,
-     "end_time": "2025-08-08T03:38:39.711008",
+     "duration": 0.139922,
+     "end_time": "2025-08-09T05:28:07.133406",
      "exception": false,
-     "start_time": "2025-08-08T03:38:39.570364",
+     "start_time": "2025-08-09T05:28:06.993484",
      "status": "completed"
     },
     "tags": []
@@ -621,19 +621,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "d35d70a5",
+   "id": "bed7ca02",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:39.732697Z",
-     "iopub.status.busy": "2025-08-08T03:38:39.732291Z",
-     "iopub.status.idle": "2025-08-08T03:38:39.876162Z",
-     "shell.execute_reply": "2025-08-08T03:38:39.875033Z"
+     "iopub.execute_input": "2025-08-09T05:28:07.155145Z",
+     "iopub.status.busy": "2025-08-09T05:28:07.154821Z",
+     "iopub.status.idle": "2025-08-09T05:28:07.292075Z",
+     "shell.execute_reply": "2025-08-09T05:28:07.291168Z"
     },
     "papermill": {
-     "duration": 0.156016,
-     "end_time": "2025-08-08T03:38:39.877952",
+     "duration": 0.149986,
+     "end_time": "2025-08-09T05:28:07.293524",
      "exception": false,
-     "start_time": "2025-08-08T03:38:39.721936",
+     "start_time": "2025-08-09T05:28:07.143538",
      "status": "completed"
     },
     "tags": []
@@ -671,19 +671,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "0b783e83",
+   "id": "31697a32",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:39.899579Z",
-     "iopub.status.busy": "2025-08-08T03:38:39.899230Z",
-     "iopub.status.idle": "2025-08-08T03:38:40.011340Z",
-     "shell.execute_reply": "2025-08-08T03:38:40.010461Z"
+     "iopub.execute_input": "2025-08-09T05:28:07.315841Z",
+     "iopub.status.busy": "2025-08-09T05:28:07.315470Z",
+     "iopub.status.idle": "2025-08-09T05:28:07.425225Z",
+     "shell.execute_reply": "2025-08-09T05:28:07.424373Z"
     },
     "papermill": {
-     "duration": 0.125151,
-     "end_time": "2025-08-08T03:38:40.012918",
+     "duration": 0.122739,
+     "end_time": "2025-08-09T05:28:07.426770",
      "exception": false,
-     "start_time": "2025-08-08T03:38:39.887767",
+     "start_time": "2025-08-09T05:28:07.304031",
      "status": "completed"
     },
     "tags": []
@@ -717,19 +717,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "0a645dc5",
+   "id": "59a59c0c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:40.034073Z",
-     "iopub.status.busy": "2025-08-08T03:38:40.033758Z",
-     "iopub.status.idle": "2025-08-08T03:38:40.179270Z",
-     "shell.execute_reply": "2025-08-08T03:38:40.178273Z"
+     "iopub.execute_input": "2025-08-09T05:28:07.449809Z",
+     "iopub.status.busy": "2025-08-09T05:28:07.449432Z",
+     "iopub.status.idle": "2025-08-09T05:28:07.588238Z",
+     "shell.execute_reply": "2025-08-09T05:28:07.587323Z"
     },
     "papermill": {
-     "duration": 0.157955,
-     "end_time": "2025-08-08T03:38:40.180884",
+     "duration": 0.152017,
+     "end_time": "2025-08-09T05:28:07.589787",
      "exception": false,
-     "start_time": "2025-08-08T03:38:40.022929",
+     "start_time": "2025-08-09T05:28:07.437770",
      "status": "completed"
     },
     "tags": []
@@ -754,19 +754,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "f7dc3a65",
+   "id": "5cb0224c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:40.202491Z",
-     "iopub.status.busy": "2025-08-08T03:38:40.202161Z",
-     "iopub.status.idle": "2025-08-08T03:38:40.315566Z",
-     "shell.execute_reply": "2025-08-08T03:38:40.314605Z"
+     "iopub.execute_input": "2025-08-09T05:28:07.613440Z",
+     "iopub.status.busy": "2025-08-09T05:28:07.612585Z",
+     "iopub.status.idle": "2025-08-09T05:28:07.723079Z",
+     "shell.execute_reply": "2025-08-09T05:28:07.722179Z"
     },
     "papermill": {
-     "duration": 0.126141,
-     "end_time": "2025-08-08T03:38:40.317292",
+     "duration": 0.123705,
+     "end_time": "2025-08-09T05:28:07.724453",
      "exception": false,
-     "start_time": "2025-08-08T03:38:40.191151",
+     "start_time": "2025-08-09T05:28:07.600748",
      "status": "completed"
     },
     "tags": []
@@ -800,19 +800,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "0b5883b9",
+   "id": "410ec338",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:40.340836Z",
-     "iopub.status.busy": "2025-08-08T03:38:40.340481Z",
-     "iopub.status.idle": "2025-08-08T03:38:40.485434Z",
-     "shell.execute_reply": "2025-08-08T03:38:40.484621Z"
+     "iopub.execute_input": "2025-08-09T05:28:07.749501Z",
+     "iopub.status.busy": "2025-08-09T05:28:07.749162Z",
+     "iopub.status.idle": "2025-08-09T05:28:07.881532Z",
+     "shell.execute_reply": "2025-08-09T05:28:07.880642Z"
     },
     "papermill": {
-     "duration": 0.158013,
-     "end_time": "2025-08-08T03:38:40.487032",
+     "duration": 0.147214,
+     "end_time": "2025-08-09T05:28:07.882983",
      "exception": false,
-     "start_time": "2025-08-08T03:38:40.329019",
+     "start_time": "2025-08-09T05:28:07.735769",
      "status": "completed"
     },
     "tags": []
@@ -837,19 +837,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "7bdc7265",
+   "id": "c19c9a76",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:40.509738Z",
-     "iopub.status.busy": "2025-08-08T03:38:40.509357Z",
-     "iopub.status.idle": "2025-08-08T03:38:40.638496Z",
-     "shell.execute_reply": "2025-08-08T03:38:40.637574Z"
+     "iopub.execute_input": "2025-08-09T05:28:07.906874Z",
+     "iopub.status.busy": "2025-08-09T05:28:07.906534Z",
+     "iopub.status.idle": "2025-08-09T05:28:08.032932Z",
+     "shell.execute_reply": "2025-08-09T05:28:08.032041Z"
     },
     "papermill": {
-     "duration": 0.142221,
-     "end_time": "2025-08-08T03:38:40.640165",
+     "duration": 0.140026,
+     "end_time": "2025-08-09T05:28:08.034446",
      "exception": false,
-     "start_time": "2025-08-08T03:38:40.497944",
+     "start_time": "2025-08-09T05:28:07.894420",
      "status": "completed"
     },
     "tags": []
@@ -883,19 +883,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "17a2f0a2",
+   "id": "360ba7f0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:40.737451Z",
-     "iopub.status.busy": "2025-08-08T03:38:40.737125Z",
-     "iopub.status.idle": "2025-08-08T03:38:40.901825Z",
-     "shell.execute_reply": "2025-08-08T03:38:40.900856Z"
+     "iopub.execute_input": "2025-08-09T05:28:08.125803Z",
+     "iopub.status.busy": "2025-08-09T05:28:08.125138Z",
+     "iopub.status.idle": "2025-08-09T05:28:08.276241Z",
+     "shell.execute_reply": "2025-08-09T05:28:08.275419Z"
     },
     "papermill": {
-     "duration": 0.179108,
-     "end_time": "2025-08-08T03:38:40.903463",
+     "duration": 0.16521,
+     "end_time": "2025-08-09T05:28:08.277762",
      "exception": false,
-     "start_time": "2025-08-08T03:38:40.724355",
+     "start_time": "2025-08-09T05:28:08.112552",
      "status": "completed"
     },
     "tags": []
@@ -920,19 +920,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "1c5fce83",
+   "id": "ed79081c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:40.928009Z",
-     "iopub.status.busy": "2025-08-08T03:38:40.927706Z",
-     "iopub.status.idle": "2025-08-08T03:38:41.048179Z",
-     "shell.execute_reply": "2025-08-08T03:38:41.047142Z"
+     "iopub.execute_input": "2025-08-09T05:28:08.303143Z",
+     "iopub.status.busy": "2025-08-09T05:28:08.302819Z",
+     "iopub.status.idle": "2025-08-09T05:28:08.421503Z",
+     "shell.execute_reply": "2025-08-09T05:28:08.420573Z"
     },
     "papermill": {
-     "duration": 0.134617,
-     "end_time": "2025-08-08T03:38:41.049786",
+     "duration": 0.133185,
+     "end_time": "2025-08-09T05:28:08.423051",
      "exception": false,
-     "start_time": "2025-08-08T03:38:40.915169",
+     "start_time": "2025-08-09T05:28:08.289866",
      "status": "completed"
     },
     "tags": []
@@ -966,19 +966,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "c115b0f2",
+   "id": "23904b07",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:41.075208Z",
-     "iopub.status.busy": "2025-08-08T03:38:41.074366Z",
-     "iopub.status.idle": "2025-08-08T03:38:41.218115Z",
-     "shell.execute_reply": "2025-08-08T03:38:41.217114Z"
+     "iopub.execute_input": "2025-08-09T05:28:08.450217Z",
+     "iopub.status.busy": "2025-08-09T05:28:08.449255Z",
+     "iopub.status.idle": "2025-08-09T05:28:08.591298Z",
+     "shell.execute_reply": "2025-08-09T05:28:08.590352Z"
     },
     "papermill": {
-     "duration": 0.158118,
-     "end_time": "2025-08-08T03:38:41.219810",
+     "duration": 0.15728,
+     "end_time": "2025-08-09T05:28:08.592674",
      "exception": false,
-     "start_time": "2025-08-08T03:38:41.061692",
+     "start_time": "2025-08-09T05:28:08.435394",
      "status": "completed"
     },
     "tags": []
@@ -1003,19 +1003,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "4ab42a8a",
+   "id": "44eacfb2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:41.247931Z",
-     "iopub.status.busy": "2025-08-08T03:38:41.247603Z",
-     "iopub.status.idle": "2025-08-08T03:38:41.357355Z",
-     "shell.execute_reply": "2025-08-08T03:38:41.356530Z"
+     "iopub.execute_input": "2025-08-09T05:28:08.619168Z",
+     "iopub.status.busy": "2025-08-09T05:28:08.618855Z",
+     "iopub.status.idle": "2025-08-09T05:28:08.727705Z",
+     "shell.execute_reply": "2025-08-09T05:28:08.726800Z"
     },
     "papermill": {
-     "duration": 0.12526,
-     "end_time": "2025-08-08T03:38:41.358964",
+     "duration": 0.123729,
+     "end_time": "2025-08-09T05:28:08.729122",
      "exception": false,
-     "start_time": "2025-08-08T03:38:41.233704",
+     "start_time": "2025-08-09T05:28:08.605393",
      "status": "completed"
     },
     "tags": []
@@ -1049,19 +1049,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "20321963",
+   "id": "80ac21d1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:41.385369Z",
-     "iopub.status.busy": "2025-08-08T03:38:41.385060Z",
-     "iopub.status.idle": "2025-08-08T03:38:41.519507Z",
-     "shell.execute_reply": "2025-08-08T03:38:41.518599Z"
+     "iopub.execute_input": "2025-08-09T05:28:08.755379Z",
+     "iopub.status.busy": "2025-08-09T05:28:08.755105Z",
+     "iopub.status.idle": "2025-08-09T05:28:08.883181Z",
+     "shell.execute_reply": "2025-08-09T05:28:08.882204Z"
     },
     "papermill": {
-     "duration": 0.149879,
-     "end_time": "2025-08-08T03:38:41.521040",
+     "duration": 0.142997,
+     "end_time": "2025-08-09T05:28:08.884644",
      "exception": false,
-     "start_time": "2025-08-08T03:38:41.371161",
+     "start_time": "2025-08-09T05:28:08.741647",
      "status": "completed"
     },
     "tags": []
@@ -1086,19 +1086,19 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "14c58619",
+   "id": "9f324b29",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:41.546870Z",
-     "iopub.status.busy": "2025-08-08T03:38:41.546568Z",
-     "iopub.status.idle": "2025-08-08T03:38:41.673505Z",
-     "shell.execute_reply": "2025-08-08T03:38:41.672626Z"
+     "iopub.execute_input": "2025-08-09T05:28:08.911706Z",
+     "iopub.status.busy": "2025-08-09T05:28:08.911065Z",
+     "iopub.status.idle": "2025-08-09T05:28:09.034813Z",
+     "shell.execute_reply": "2025-08-09T05:28:09.034056Z"
     },
     "papermill": {
-     "duration": 0.141667,
-     "end_time": "2025-08-08T03:38:41.675127",
+     "duration": 0.138982,
+     "end_time": "2025-08-09T05:28:09.036375",
      "exception": false,
-     "start_time": "2025-08-08T03:38:41.533460",
+     "start_time": "2025-08-09T05:28:08.897393",
      "status": "completed"
     },
     "tags": []
@@ -1132,19 +1132,19 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "2f8e939a",
+   "id": "7a985fdd",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:41.703629Z",
-     "iopub.status.busy": "2025-08-08T03:38:41.703272Z",
-     "iopub.status.idle": "2025-08-08T03:38:41.847827Z",
-     "shell.execute_reply": "2025-08-08T03:38:41.846909Z"
+     "iopub.execute_input": "2025-08-09T05:28:09.064257Z",
+     "iopub.status.busy": "2025-08-09T05:28:09.063970Z",
+     "iopub.status.idle": "2025-08-09T05:28:09.205866Z",
+     "shell.execute_reply": "2025-08-09T05:28:09.205017Z"
     },
     "papermill": {
-     "duration": 0.161555,
-     "end_time": "2025-08-08T03:38:41.849326",
+     "duration": 0.157456,
+     "end_time": "2025-08-09T05:28:09.207408",
      "exception": false,
-     "start_time": "2025-08-08T03:38:41.687771",
+     "start_time": "2025-08-09T05:28:09.049952",
      "status": "completed"
     },
     "tags": []
@@ -1169,19 +1169,19 @@
   {
    "cell_type": "code",
    "execution_count": 22,
-   "id": "2f9a3a4b",
+   "id": "df8691c2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:41.877613Z",
-     "iopub.status.busy": "2025-08-08T03:38:41.876913Z",
-     "iopub.status.idle": "2025-08-08T03:38:41.999478Z",
-     "shell.execute_reply": "2025-08-08T03:38:41.998632Z"
+     "iopub.execute_input": "2025-08-09T05:28:09.237258Z",
+     "iopub.status.busy": "2025-08-09T05:28:09.236552Z",
+     "iopub.status.idle": "2025-08-09T05:28:09.358383Z",
+     "shell.execute_reply": "2025-08-09T05:28:09.357617Z"
     },
     "papermill": {
-     "duration": 0.138806,
-     "end_time": "2025-08-08T03:38:42.001255",
+     "duration": 0.138375,
+     "end_time": "2025-08-09T05:28:09.359848",
      "exception": false,
-     "start_time": "2025-08-08T03:38:41.862449",
+     "start_time": "2025-08-09T05:28:09.221473",
      "status": "completed"
     },
     "tags": []
@@ -1215,19 +1215,19 @@
   {
    "cell_type": "code",
    "execution_count": 23,
-   "id": "2df20a93",
+   "id": "885bc6e9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:42.032105Z",
-     "iopub.status.busy": "2025-08-08T03:38:42.031807Z",
-     "iopub.status.idle": "2025-08-08T03:38:42.180519Z",
-     "shell.execute_reply": "2025-08-08T03:38:42.179579Z"
+     "iopub.execute_input": "2025-08-09T05:28:09.389567Z",
+     "iopub.status.busy": "2025-08-09T05:28:09.388617Z",
+     "iopub.status.idle": "2025-08-09T05:28:09.531781Z",
+     "shell.execute_reply": "2025-08-09T05:28:09.530871Z"
     },
     "papermill": {
-     "duration": 0.167209,
-     "end_time": "2025-08-08T03:38:42.182130",
+     "duration": 0.159036,
+     "end_time": "2025-08-09T05:28:09.533161",
      "exception": false,
-     "start_time": "2025-08-08T03:38:42.014921",
+     "start_time": "2025-08-09T05:28:09.374125",
      "status": "completed"
     },
     "tags": []
@@ -1252,19 +1252,19 @@
   {
    "cell_type": "code",
    "execution_count": 24,
-   "id": "1b3c978b",
+   "id": "202eeb25",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:42.211183Z",
-     "iopub.status.busy": "2025-08-08T03:38:42.210870Z",
-     "iopub.status.idle": "2025-08-08T03:38:42.324678Z",
-     "shell.execute_reply": "2025-08-08T03:38:42.323727Z"
+     "iopub.execute_input": "2025-08-09T05:28:09.562601Z",
+     "iopub.status.busy": "2025-08-09T05:28:09.562292Z",
+     "iopub.status.idle": "2025-08-09T05:28:09.674317Z",
+     "shell.execute_reply": "2025-08-09T05:28:09.673466Z"
     },
     "papermill": {
-     "duration": 0.129851,
-     "end_time": "2025-08-08T03:38:42.326361",
+     "duration": 0.128474,
+     "end_time": "2025-08-09T05:28:09.675889",
      "exception": false,
-     "start_time": "2025-08-08T03:38:42.196510",
+     "start_time": "2025-08-09T05:28:09.547415",
      "status": "completed"
     },
     "tags": []
@@ -1298,19 +1298,19 @@
   {
    "cell_type": "code",
    "execution_count": 25,
-   "id": "5c5fdb5c",
+   "id": "33821473",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:42.355039Z",
-     "iopub.status.busy": "2025-08-08T03:38:42.354736Z",
-     "iopub.status.idle": "2025-08-08T03:38:42.496376Z",
-     "shell.execute_reply": "2025-08-08T03:38:42.495527Z"
+     "iopub.execute_input": "2025-08-09T05:28:09.706149Z",
+     "iopub.status.busy": "2025-08-09T05:28:09.705822Z",
+     "iopub.status.idle": "2025-08-09T05:28:09.829926Z",
+     "shell.execute_reply": "2025-08-09T05:28:09.829259Z"
     },
     "papermill": {
-     "duration": 0.157864,
-     "end_time": "2025-08-08T03:38:42.497941",
+     "duration": 0.140859,
+     "end_time": "2025-08-09T05:28:09.831429",
      "exception": false,
-     "start_time": "2025-08-08T03:38:42.340077",
+     "start_time": "2025-08-09T05:28:09.690570",
      "status": "completed"
     },
     "tags": []
@@ -1335,19 +1335,19 @@
   {
    "cell_type": "code",
    "execution_count": 26,
-   "id": "6ea9d9e6",
+   "id": "de395bdb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:42.527953Z",
-     "iopub.status.busy": "2025-08-08T03:38:42.527629Z",
-     "iopub.status.idle": "2025-08-08T03:38:42.644670Z",
-     "shell.execute_reply": "2025-08-08T03:38:42.643761Z"
+     "iopub.execute_input": "2025-08-09T05:28:09.861957Z",
+     "iopub.status.busy": "2025-08-09T05:28:09.861590Z",
+     "iopub.status.idle": "2025-08-09T05:28:09.978586Z",
+     "shell.execute_reply": "2025-08-09T05:28:09.977731Z"
     },
     "papermill": {
-     "duration": 0.133606,
-     "end_time": "2025-08-08T03:38:42.646210",
+     "duration": 0.133755,
+     "end_time": "2025-08-09T05:28:09.979983",
      "exception": false,
-     "start_time": "2025-08-08T03:38:42.512604",
+     "start_time": "2025-08-09T05:28:09.846228",
      "status": "completed"
     },
     "tags": []
@@ -1381,19 +1381,19 @@
   {
    "cell_type": "code",
    "execution_count": 27,
-   "id": "d0c03ce0",
+   "id": "92cb93b9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:42.676950Z",
-     "iopub.status.busy": "2025-08-08T03:38:42.676613Z",
-     "iopub.status.idle": "2025-08-08T03:38:42.818487Z",
-     "shell.execute_reply": "2025-08-08T03:38:42.817368Z"
+     "iopub.execute_input": "2025-08-09T05:28:10.011030Z",
+     "iopub.status.busy": "2025-08-09T05:28:10.010567Z",
+     "iopub.status.idle": "2025-08-09T05:28:10.148706Z",
+     "shell.execute_reply": "2025-08-09T05:28:10.147913Z"
     },
     "papermill": {
-     "duration": 0.15945,
-     "end_time": "2025-08-08T03:38:42.820200",
+     "duration": 0.155436,
+     "end_time": "2025-08-09T05:28:10.150306",
      "exception": false,
-     "start_time": "2025-08-08T03:38:42.660750",
+     "start_time": "2025-08-09T05:28:09.994870",
      "status": "completed"
     },
     "tags": []
@@ -1418,19 +1418,19 @@
   {
    "cell_type": "code",
    "execution_count": 28,
-   "id": "1dbaf4ad",
+   "id": "66443e20",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:42.850843Z",
-     "iopub.status.busy": "2025-08-08T03:38:42.850363Z",
-     "iopub.status.idle": "2025-08-08T03:38:42.959042Z",
-     "shell.execute_reply": "2025-08-08T03:38:42.958122Z"
+     "iopub.execute_input": "2025-08-09T05:28:10.182382Z",
+     "iopub.status.busy": "2025-08-09T05:28:10.182069Z",
+     "iopub.status.idle": "2025-08-09T05:28:10.292798Z",
+     "shell.execute_reply": "2025-08-09T05:28:10.291692Z"
     },
     "papermill": {
-     "duration": 0.125346,
-     "end_time": "2025-08-08T03:38:42.960520",
+     "duration": 0.12855,
+     "end_time": "2025-08-09T05:28:10.294395",
      "exception": false,
-     "start_time": "2025-08-08T03:38:42.835174",
+     "start_time": "2025-08-09T05:28:10.165845",
      "status": "completed"
     },
     "tags": []
@@ -1464,19 +1464,19 @@
   {
    "cell_type": "code",
    "execution_count": 29,
-   "id": "fca50f1b",
+   "id": "742b5f7c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:42.991119Z",
-     "iopub.status.busy": "2025-08-08T03:38:42.990811Z",
-     "iopub.status.idle": "2025-08-08T03:38:43.128886Z",
-     "shell.execute_reply": "2025-08-08T03:38:43.127924Z"
+     "iopub.execute_input": "2025-08-09T05:28:10.326184Z",
+     "iopub.status.busy": "2025-08-09T05:28:10.325873Z",
+     "iopub.status.idle": "2025-08-09T05:28:10.594328Z",
+     "shell.execute_reply": "2025-08-09T05:28:10.593512Z"
     },
     "papermill": {
-     "duration": 0.155365,
-     "end_time": "2025-08-08T03:38:43.130506",
+     "duration": 0.286082,
+     "end_time": "2025-08-09T05:28:10.595792",
      "exception": false,
-     "start_time": "2025-08-08T03:38:42.975141",
+     "start_time": "2025-08-09T05:28:10.309710",
      "status": "completed"
     },
     "tags": []
@@ -1500,13 +1500,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "75d071ed",
+   "id": "9a71b25b",
    "metadata": {
     "papermill": {
-     "duration": 0.014611,
-     "end_time": "2025-08-08T03:38:43.160415",
+     "duration": 0.015094,
+     "end_time": "2025-08-09T05:28:10.626792",
      "exception": false,
-     "start_time": "2025-08-08T03:38:43.145804",
+     "start_time": "2025-08-09T05:28:10.611698",
      "status": "completed"
     },
     "tags": []
@@ -1518,19 +1518,19 @@
   {
    "cell_type": "code",
    "execution_count": 30,
-   "id": "f52d6713",
+   "id": "7e224d36",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:43.190842Z",
-     "iopub.status.busy": "2025-08-08T03:38:43.190472Z",
-     "iopub.status.idle": "2025-08-08T03:38:43.208752Z",
-     "shell.execute_reply": "2025-08-08T03:38:43.207939Z"
+     "iopub.execute_input": "2025-08-09T05:28:10.658163Z",
+     "iopub.status.busy": "2025-08-09T05:28:10.657861Z",
+     "iopub.status.idle": "2025-08-09T05:28:10.675222Z",
+     "shell.execute_reply": "2025-08-09T05:28:10.674411Z"
     },
     "papermill": {
-     "duration": 0.035132,
-     "end_time": "2025-08-08T03:38:43.210185",
+     "duration": 0.034547,
+     "end_time": "2025-08-09T05:28:10.676524",
      "exception": false,
-     "start_time": "2025-08-08T03:38:43.175053",
+     "start_time": "2025-08-09T05:28:10.641977",
      "status": "completed"
     },
     "tags": []
@@ -1772,19 +1772,19 @@
   {
    "cell_type": "code",
    "execution_count": 31,
-   "id": "85dd42c6",
+   "id": "f26477b9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:43.242218Z",
-     "iopub.status.busy": "2025-08-08T03:38:43.241890Z",
-     "iopub.status.idle": "2025-08-08T03:38:43.248239Z",
-     "shell.execute_reply": "2025-08-08T03:38:43.247217Z"
+     "iopub.execute_input": "2025-08-09T05:28:10.708508Z",
+     "iopub.status.busy": "2025-08-09T05:28:10.708212Z",
+     "iopub.status.idle": "2025-08-09T05:28:10.713762Z",
+     "shell.execute_reply": "2025-08-09T05:28:10.712890Z"
     },
     "papermill": {
-     "duration": 0.024633,
-     "end_time": "2025-08-08T03:38:43.250029",
+     "duration": 0.022934,
+     "end_time": "2025-08-09T05:28:10.715207",
      "exception": false,
-     "start_time": "2025-08-08T03:38:43.225396",
+     "start_time": "2025-08-09T05:28:10.692273",
      "status": "completed"
     },
     "tags": []
@@ -1798,19 +1798,19 @@
   {
    "cell_type": "code",
    "execution_count": 32,
-   "id": "e410f8c3",
+   "id": "566cdfa1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:43.283128Z",
-     "iopub.status.busy": "2025-08-08T03:38:43.282843Z",
-     "iopub.status.idle": "2025-08-08T03:38:43.290009Z",
-     "shell.execute_reply": "2025-08-08T03:38:43.289119Z"
+     "iopub.execute_input": "2025-08-09T05:28:10.747855Z",
+     "iopub.status.busy": "2025-08-09T05:28:10.747214Z",
+     "iopub.status.idle": "2025-08-09T05:28:10.753642Z",
+     "shell.execute_reply": "2025-08-09T05:28:10.752828Z"
     },
     "papermill": {
-     "duration": 0.025068,
-     "end_time": "2025-08-08T03:38:43.291421",
+     "duration": 0.024339,
+     "end_time": "2025-08-09T05:28:10.755086",
      "exception": false,
-     "start_time": "2025-08-08T03:38:43.266353",
+     "start_time": "2025-08-09T05:28:10.730747",
      "status": "completed"
     },
     "tags": []
@@ -1845,19 +1845,19 @@
   {
    "cell_type": "code",
    "execution_count": 33,
-   "id": "52dd033b",
+   "id": "1faa27b6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:43.323537Z",
-     "iopub.status.busy": "2025-08-08T03:38:43.323254Z",
-     "iopub.status.idle": "2025-08-08T03:38:43.737320Z",
-     "shell.execute_reply": "2025-08-08T03:38:43.736367Z"
+     "iopub.execute_input": "2025-08-09T05:28:10.787797Z",
+     "iopub.status.busy": "2025-08-09T05:28:10.787452Z",
+     "iopub.status.idle": "2025-08-09T05:28:11.060115Z",
+     "shell.execute_reply": "2025-08-09T05:28:11.059302Z"
     },
     "papermill": {
-     "duration": 0.431904,
-     "end_time": "2025-08-08T03:38:43.739031",
+     "duration": 0.29049,
+     "end_time": "2025-08-09T05:28:11.061702",
      "exception": false,
-     "start_time": "2025-08-08T03:38:43.307127",
+     "start_time": "2025-08-09T05:28:10.771212",
      "status": "completed"
     },
     "tags": []
@@ -1872,19 +1872,19 @@
   {
    "cell_type": "code",
    "execution_count": 34,
-   "id": "2cb7a0ee",
+   "id": "fc46acc5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:43.771433Z",
-     "iopub.status.busy": "2025-08-08T03:38:43.770702Z",
-     "iopub.status.idle": "2025-08-08T03:38:43.939418Z",
-     "shell.execute_reply": "2025-08-08T03:38:43.938601Z"
+     "iopub.execute_input": "2025-08-09T05:28:11.094814Z",
+     "iopub.status.busy": "2025-08-09T05:28:11.094251Z",
+     "iopub.status.idle": "2025-08-09T05:28:11.244294Z",
+     "shell.execute_reply": "2025-08-09T05:28:11.243362Z"
     },
     "papermill": {
-     "duration": 0.186917,
-     "end_time": "2025-08-08T03:38:43.941228",
+     "duration": 0.168554,
+     "end_time": "2025-08-09T05:28:11.246213",
      "exception": false,
-     "start_time": "2025-08-08T03:38:43.754311",
+     "start_time": "2025-08-09T05:28:11.077659",
      "status": "completed"
     },
     "tags": []
@@ -1927,19 +1927,19 @@
   {
    "cell_type": "code",
    "execution_count": 35,
-   "id": "b51a427b",
+   "id": "948142cc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:43.995421Z",
-     "iopub.status.busy": "2025-08-08T03:38:43.993756Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.012177Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.011439Z"
+     "iopub.execute_input": "2025-08-09T05:28:11.301465Z",
+     "iopub.status.busy": "2025-08-09T05:28:11.300781Z",
+     "iopub.status.idle": "2025-08-09T05:28:11.318436Z",
+     "shell.execute_reply": "2025-08-09T05:28:11.317719Z"
     },
     "papermill": {
-     "duration": 0.047398,
-     "end_time": "2025-08-08T03:38:44.014207",
+     "duration": 0.047387,
+     "end_time": "2025-08-09T05:28:11.320450",
      "exception": false,
-     "start_time": "2025-08-08T03:38:43.966809",
+     "start_time": "2025-08-09T05:28:11.273063",
      "status": "completed"
     },
     "tags": []
@@ -1962,14 +1962,404 @@
    ]
   },
   {
+   "cell_type": "code",
+   "execution_count": 36,
+   "id": "f3aaef9b",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-08-09T05:28:11.366256Z",
+     "iopub.status.busy": "2025-08-09T05:28:11.365948Z",
+     "iopub.status.idle": "2025-08-09T05:28:16.689773Z",
+     "shell.execute_reply": "2025-08-09T05:28:16.688410Z"
+    },
+    "papermill": {
+     "duration": 5.344021,
+     "end_time": "2025-08-09T05:28:16.691354",
+     "exception": false,
+     "start_time": "2025-08-09T05:28:11.347333",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001042 seconds.\n",
+      "You can set `force_col_wise=true` to remove the overhead.\n",
+      "[LightGBM] [Info] Total Bins 346\n",
+      "[LightGBM] [Info] Number of data points in the train set: 211, number of used features: 11\n",
+      "[LightGBM] [Info] Start training from score -0.995149\n",
+      "[LightGBM] [Info] Start training from score -1.886122\n",
+      "[LightGBM] [Info] Start training from score -0.736738\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "0.9811320754716981"
+      ]
+     },
+     "execution_count": 36,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "import lightgbm as lgb \n",
+    "\n",
+    "lgb_one = lgb.LGBMClassifier(random_state=42).fit(X_train, y_train)\n",
+    "y_pred = lgb_one.predict(X_test)\n",
+    "f1_score(y_test, y_pred, average='micro')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 37,
+   "id": "1fe40ad7",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-08-09T05:28:16.727956Z",
+     "iopub.status.busy": "2025-08-09T05:28:16.726785Z",
+     "iopub.status.idle": "2025-08-09T05:28:16.738100Z",
+     "shell.execute_reply": "2025-08-09T05:28:16.737189Z"
+    },
+    "papermill": {
+     "duration": 0.030377,
+     "end_time": "2025-08-09T05:28:16.739768",
+     "exception": false,
+     "start_time": "2025-08-09T05:28:16.709391",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.999525166191833"
+      ]
+     },
+     "execution_count": 37,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "y_pred_prob = lgb_one.predict_proba(X_test)\n",
+    "roc_auc_score(y_test, y_pred_prob, multi_class='ovr')"
+   ]
+  },
+  {
    "cell_type": "markdown",
-   "id": "6e9b061c",
+   "id": "68d1798c",
    "metadata": {
     "papermill": {
-     "duration": 0.017398,
-     "end_time": "2025-08-08T03:38:44.057195",
+     "duration": 0.016104,
+     "end_time": "2025-08-09T05:28:16.774799",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.039797",
+     "start_time": "2025-08-09T05:28:16.758695",
      "status": "completed"
     },
     "tags": []
@@ -1980,20 +2370,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 36,
-   "id": "f8569be7",
+   "execution_count": 38,
+   "id": "98845a33",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.089768Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.089020Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.106313Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.105417Z"
+     "iopub.execute_input": "2025-08-09T05:28:16.808658Z",
+     "iopub.status.busy": "2025-08-09T05:28:16.808352Z",
+     "iopub.status.idle": "2025-08-09T05:28:16.824869Z",
+     "shell.execute_reply": "2025-08-09T05:28:16.824143Z"
     },
     "papermill": {
-     "duration": 0.034987,
-     "end_time": "2025-08-08T03:38:44.107784",
+     "duration": 0.035022,
+     "end_time": "2025-08-09T05:28:16.826163",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.072797",
+     "start_time": "2025-08-09T05:28:16.791141",
      "status": "completed"
     },
     "tags": []
@@ -2222,7 +2612,7 @@
        "[264 rows x 12 columns]"
       ]
      },
-     "execution_count": 36,
+     "execution_count": 38,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2234,20 +2624,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 37,
-   "id": "f8679a27",
+   "execution_count": 39,
+   "id": "82f0510d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.141700Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.141339Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.159647Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.158611Z"
+     "iopub.execute_input": "2025-08-09T05:28:16.861555Z",
+     "iopub.status.busy": "2025-08-09T05:28:16.861245Z",
+     "iopub.status.idle": "2025-08-09T05:28:16.878998Z",
+     "shell.execute_reply": "2025-08-09T05:28:16.878201Z"
     },
     "papermill": {
-     "duration": 0.037353,
-     "end_time": "2025-08-08T03:38:44.161255",
+     "duration": 0.036943,
+     "end_time": "2025-08-09T05:28:16.880396",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.123902",
+     "start_time": "2025-08-09T05:28:16.843453",
      "status": "completed"
     },
     "tags": []
@@ -2476,7 +2866,7 @@
        "[264 rows x 12 columns]"
       ]
      },
-     "execution_count": 37,
+     "execution_count": 39,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2488,20 +2878,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 38,
-   "id": "cc665c8e",
+   "execution_count": 40,
+   "id": "9cc2848c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.194872Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.194499Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.201294Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.200533Z"
+     "iopub.execute_input": "2025-08-09T05:28:16.916598Z",
+     "iopub.status.busy": "2025-08-09T05:28:16.916288Z",
+     "iopub.status.idle": "2025-08-09T05:28:16.922860Z",
+     "shell.execute_reply": "2025-08-09T05:28:16.922126Z"
     },
     "papermill": {
-     "duration": 0.025049,
-     "end_time": "2025-08-08T03:38:44.202675",
+     "duration": 0.025739,
+     "end_time": "2025-08-09T05:28:16.924143",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.177626",
+     "start_time": "2025-08-09T05:28:16.898404",
      "status": "completed"
     },
     "tags": []
@@ -2516,7 +2906,7 @@
        "Name: count, dtype: int64"
       ]
      },
-     "execution_count": 38,
+     "execution_count": 40,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2527,20 +2917,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 39,
-   "id": "70a1f95f",
+   "execution_count": 41,
+   "id": "a52ecf70",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.237611Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.236625Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.241974Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.241139Z"
+     "iopub.execute_input": "2025-08-09T05:28:16.959315Z",
+     "iopub.status.busy": "2025-08-09T05:28:16.959026Z",
+     "iopub.status.idle": "2025-08-09T05:28:16.964740Z",
+     "shell.execute_reply": "2025-08-09T05:28:16.963850Z"
     },
     "papermill": {
-     "duration": 0.024625,
-     "end_time": "2025-08-08T03:38:44.243396",
+     "duration": 0.024795,
+     "end_time": "2025-08-09T05:28:16.966127",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.218771",
+     "start_time": "2025-08-09T05:28:16.941332",
      "status": "completed"
     },
     "tags": []
@@ -2553,20 +2943,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 40,
-   "id": "0da227e3",
+   "execution_count": 42,
+   "id": "683df1a7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.277076Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.276729Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.284024Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.283078Z"
+     "iopub.execute_input": "2025-08-09T05:28:17.001646Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.001376Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.008183Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.007004Z"
     },
     "papermill": {
-     "duration": 0.025893,
-     "end_time": "2025-08-08T03:38:44.285570",
+     "duration": 0.026203,
+     "end_time": "2025-08-09T05:28:17.009645",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.259677",
+     "start_time": "2025-08-09T05:28:16.983442",
      "status": "completed"
     },
     "tags": []
@@ -2580,20 +2970,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 41,
-   "id": "624e1c6e",
+   "execution_count": 43,
+   "id": "891dcd32",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.318678Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.318341Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.359952Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.356781Z"
+     "iopub.execute_input": "2025-08-09T05:28:17.046955Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.046611Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.086918Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.086092Z"
     },
     "papermill": {
-     "duration": 0.060149,
-     "end_time": "2025-08-08T03:38:44.361814",
+     "duration": 0.061662,
+     "end_time": "2025-08-09T05:28:17.088475",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.301665",
+     "start_time": "2025-08-09T05:28:17.026813",
      "status": "completed"
     },
     "tags": []
@@ -2619,7 +3009,7 @@
        "0.8985507246376812"
       ]
      },
-     "execution_count": 41,
+     "execution_count": 43,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2635,20 +3025,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 42,
-   "id": "27662cf9",
+   "execution_count": 44,
+   "id": "834000b5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.418421Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.418083Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.429313Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.428565Z"
+     "iopub.execute_input": "2025-08-09T05:28:17.149775Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.149395Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.159528Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.158761Z"
     },
     "papermill": {
-     "duration": 0.041726,
-     "end_time": "2025-08-08T03:38:44.430957",
+     "duration": 0.042794,
+     "end_time": "2025-08-09T05:28:17.161201",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.389231",
+     "start_time": "2025-08-09T05:28:17.118407",
      "status": "completed"
     },
     "tags": []
@@ -2660,7 +3050,7 @@
        "0.9349206349206349"
       ]
      },
-     "execution_count": 42,
+     "execution_count": 44,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2671,14 +3061,204 @@
    ]
   },
   {
+   "cell_type": "code",
+   "execution_count": 45,
+   "id": "4faffcfc",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-08-09T05:28:17.213384Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.213100Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.250174Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.249424Z"
+    },
+    "papermill": {
+     "duration": 0.060264,
+     "end_time": "2025-08-09T05:28:17.252062",
+     "exception": false,
+     "start_time": "2025-08-09T05:28:17.191798",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[LightGBM] [Info] Number of positive: 133, number of negative: 78\n",
+      "[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.000052 seconds.\n",
+      "You can set `force_col_wise=true` to remove the overhead.\n",
+      "[LightGBM] [Info] Total Bins 346\n",
+      "[LightGBM] [Info] Number of data points in the train set: 211, number of used features: 11\n",
+      "[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.630332 -> initscore=0.533640\n",
+      "[LightGBM] [Info] Start training from score 0.533640\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "0.9855072463768115"
+      ]
+     },
+     "execution_count": 45,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "import lightgbm as lgb \n",
+    "\n",
+    "lgb_two = lgb.LGBMClassifier(random_state=42).fit(X_train, y_train)\n",
+    "y_pred = lgb_two.predict(X_test)\n",
+    "f1_score(y_test, y_pred)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "id": "9954d2e9",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-08-09T05:28:17.288263Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.287944Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.297815Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.297035Z"
+    },
+    "papermill": {
+     "duration": 0.029744,
+     "end_time": "2025-08-09T05:28:17.299278",
+     "exception": false,
+     "start_time": "2025-08-09T05:28:17.269534",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1.0"
+      ]
+     },
+     "execution_count": 46,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "y_pred_prob = lgb_two.predict_proba(X_test)\n",
+    "roc_auc_score(y_test, y_pred_prob[:,1])"
+   ]
+  },
+  {
    "cell_type": "markdown",
-   "id": "b5d1edda",
+   "id": "ef607d66",
    "metadata": {
     "papermill": {
-     "duration": 0.021385,
-     "end_time": "2025-08-08T03:38:44.479232",
+     "duration": 0.017124,
+     "end_time": "2025-08-09T05:28:17.334047",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.457847",
+     "start_time": "2025-08-09T05:28:17.316923",
      "status": "completed"
     },
     "tags": []
@@ -2689,20 +3269,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 43,
-   "id": "8fb7ee72",
+   "execution_count": 47,
+   "id": "0da06443",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.512466Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.512143Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.529932Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.529069Z"
+     "iopub.execute_input": "2025-08-09T05:28:17.370557Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.370271Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.387698Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.386807Z"
     },
     "papermill": {
-     "duration": 0.036062,
-     "end_time": "2025-08-08T03:38:44.531463",
+     "duration": 0.037505,
+     "end_time": "2025-08-09T05:28:17.389039",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.495401",
+     "start_time": "2025-08-09T05:28:17.351534",
      "status": "completed"
     },
     "tags": []
@@ -2931,7 +3511,7 @@
        "[264 rows x 12 columns]"
       ]
      },
-     "execution_count": 43,
+     "execution_count": 47,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2943,20 +3523,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 44,
-   "id": "f91f81a4",
+   "execution_count": 48,
+   "id": "26d5e6fa",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.567153Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.566830Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.586521Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.585499Z"
+     "iopub.execute_input": "2025-08-09T05:28:17.428394Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.427867Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.445985Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.445145Z"
     },
     "papermill": {
-     "duration": 0.039533,
-     "end_time": "2025-08-08T03:38:44.588210",
+     "duration": 0.038699,
+     "end_time": "2025-08-09T05:28:17.447462",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.548677",
+     "start_time": "2025-08-09T05:28:17.408763",
      "status": "completed"
     },
     "tags": []
@@ -3185,7 +3765,7 @@
        "[264 rows x 12 columns]"
       ]
      },
-     "execution_count": 44,
+     "execution_count": 48,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3197,20 +3777,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 45,
-   "id": "a699a38b",
+   "execution_count": 49,
+   "id": "a75c92a1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.624159Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.623823Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.630784Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.629869Z"
+     "iopub.execute_input": "2025-08-09T05:28:17.485329Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.484512Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.490975Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.490238Z"
     },
     "papermill": {
-     "duration": 0.026546,
-     "end_time": "2025-08-08T03:38:44.632272",
+     "duration": 0.026595,
+     "end_time": "2025-08-09T05:28:17.492224",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.605726",
+     "start_time": "2025-08-09T05:28:17.465629",
      "status": "completed"
     },
     "tags": []
@@ -3225,7 +3805,7 @@
        "Name: count, dtype: int64"
       ]
      },
-     "execution_count": 45,
+     "execution_count": 49,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3236,20 +3816,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 46,
-   "id": "ce2ae466",
+   "execution_count": 50,
+   "id": "8ff9e41e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.667908Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.667095Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.672348Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.671581Z"
+     "iopub.execute_input": "2025-08-09T05:28:17.531348Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.530656Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.535590Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.534932Z"
     },
     "papermill": {
-     "duration": 0.024437,
-     "end_time": "2025-08-08T03:38:44.673813",
+     "duration": 0.026263,
+     "end_time": "2025-08-09T05:28:17.536848",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.649376",
+     "start_time": "2025-08-09T05:28:17.510585",
      "status": "completed"
     },
     "tags": []
@@ -3262,20 +3842,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 47,
-   "id": "53a6b65b",
+   "execution_count": 51,
+   "id": "ecdaac3e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.708273Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.707971Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.715009Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.714194Z"
+     "iopub.execute_input": "2025-08-09T05:28:17.574511Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.574193Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.580932Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.580092Z"
     },
     "papermill": {
-     "duration": 0.025981,
-     "end_time": "2025-08-08T03:38:44.716587",
+     "duration": 0.027061,
+     "end_time": "2025-08-09T05:28:17.582352",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.690606",
+     "start_time": "2025-08-09T05:28:17.555291",
      "status": "completed"
     },
     "tags": []
@@ -3289,20 +3869,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 48,
-   "id": "03605788",
+   "execution_count": 52,
+   "id": "5ad5bf32",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.753465Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.753147Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.792270Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.791386Z"
+     "iopub.execute_input": "2025-08-09T05:28:17.620705Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.620387Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.657192Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.656229Z"
     },
     "papermill": {
-     "duration": 0.05944,
-     "end_time": "2025-08-08T03:38:44.794300",
+     "duration": 0.058127,
+     "end_time": "2025-08-09T05:28:17.659094",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.734860",
+     "start_time": "2025-08-09T05:28:17.600967",
      "status": "completed"
     },
     "tags": []
@@ -3328,7 +3908,7 @@
        "0.0"
       ]
      },
-     "execution_count": 48,
+     "execution_count": 52,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3344,20 +3924,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 49,
-   "id": "b284449e",
+   "execution_count": 53,
+   "id": "c1b76121",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-08-08T03:38:44.852954Z",
-     "iopub.status.busy": "2025-08-08T03:38:44.852605Z",
-     "iopub.status.idle": "2025-08-08T03:38:44.866028Z",
-     "shell.execute_reply": "2025-08-08T03:38:44.865222Z"
+     "iopub.execute_input": "2025-08-09T05:28:17.721887Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.721532Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.734561Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.733952Z"
     },
     "papermill": {
-     "duration": 0.046225,
-     "end_time": "2025-08-08T03:38:44.868490",
+     "duration": 0.046358,
+     "end_time": "2025-08-09T05:28:17.736351",
      "exception": false,
-     "start_time": "2025-08-08T03:38:44.822265",
+     "start_time": "2025-08-09T05:28:17.689993",
      "status": "completed"
     },
     "tags": []
@@ -3369,13 +3949,203 @@
        "0.6611111111111111"
       ]
      },
-     "execution_count": 49,
+     "execution_count": 53,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
     "y_pred_prob = lr_three.predict_proba(X_test)\n",
+    "roc_auc_score(y_test, y_pred_prob[:,1])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 54,
+   "id": "f20ffdf0",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-08-09T05:28:17.787790Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.787444Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.826750Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.825526Z"
+    },
+    "papermill": {
+     "duration": 0.060776,
+     "end_time": "2025-08-09T05:28:17.828544",
+     "exception": false,
+     "start_time": "2025-08-09T05:28:17.767768",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[LightGBM] [Info] Number of positive: 32, number of negative: 179\n",
+      "[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.000081 seconds.\n",
+      "You can set `force_col_wise=true` to remove the overhead.\n",
+      "[LightGBM] [Info] Total Bins 346\n",
+      "[LightGBM] [Info] Number of data points in the train set: 211, number of used features: 11\n",
+      "[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.151659 -> initscore=-1.721650\n",
+      "[LightGBM] [Info] Start training from score -1.721650\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n",
+      "[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "0.9333333333333333"
+      ]
+     },
+     "execution_count": 54,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "import lightgbm as lgb \n",
+    "\n",
+    "lgb_three = lgb.LGBMClassifier(random_state=42).fit(X_train, y_train)\n",
+    "y_pred = lgb_three.predict(X_test)\n",
+    "f1_score(y_test, y_pred)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 55,
+   "id": "e36a0236",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-08-09T05:28:17.869630Z",
+     "iopub.status.busy": "2025-08-09T05:28:17.869355Z",
+     "iopub.status.idle": "2025-08-09T05:28:17.877859Z",
+     "shell.execute_reply": "2025-08-09T05:28:17.877120Z"
+    },
+    "papermill": {
+     "duration": 0.029302,
+     "end_time": "2025-08-09T05:28:17.879152",
+     "exception": false,
+     "start_time": "2025-08-09T05:28:17.849850",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1.0"
+      ]
+     },
+     "execution_count": 55,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "y_pred_prob = lgb_three.predict_proba(X_test)\n",
     "roc_auc_score(y_test, y_pred_prob[:,1])"
    ]
   }
@@ -3415,14 +4185,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 16.039433,
-   "end_time": "2025-08-08T03:38:45.720972",
+   "duration": 20.887715,
+   "end_time": "2025-08-09T05:28:18.919970",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-08-08T03:38:29.681539",
+   "start_time": "2025-08-09T05:27:58.032255",
    "version": "2.6.0"
   }
  },
